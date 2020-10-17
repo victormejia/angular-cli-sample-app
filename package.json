@@ -21,6 +21,7 @@
     "@angular/router": "~10.1.6",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
+    "weather-underground-icons": "^1.0.0",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
