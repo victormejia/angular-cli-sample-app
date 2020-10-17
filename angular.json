@@ -25,7 +25,12 @@
             "aot": true,
             "assets": [
               "src/favicon.ico",
-              "src/assets"
+              "src/assets",
+              {
+                "glob": "**/*",
+                "input": "./node_modules/weather-underground-icons/dist/icons/black/png/32x32",
+                "output": "./assets/weather-icons"
+              }
             ],
             "styles": [
               "src/styles.scss"
