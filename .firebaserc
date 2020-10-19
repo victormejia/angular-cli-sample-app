@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "cli-sample-6b2fb": {
+      "hosting": {
+        "sample-app": [
+          "cli-sample-6b2fb"
+        ]
+      }
+    }
+  }
+}
